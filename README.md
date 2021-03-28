@@ -27,5 +27,5 @@ In this algorithm, at each point, the left, top, right, and bottom nodes are com
 ## :bulb: Language Used
 - C++
 
-# 👻 Created by:
+## 👻 Created by:
 - This is in collaboration with [Hansika Sacheva](https://github.com/HansikaSachdeva) 
