@@ -1,4 +1,4 @@
-# Maze-Game
+# :jigsaw: Maze-Game
 
 ## :grey_question: Problem Statement
 
