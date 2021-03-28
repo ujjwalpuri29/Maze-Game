@@ -28,4 +28,4 @@ In this algorithm, at each point, the left, top, right, and bottom nodes are com
 - C++
 
 # 👻 Created by:
-- This is in collaboration with @HansikaSacheva 
+- This is in collaboration with [@HansikaSacheva](https://github.com/HansikaSachdeva) 
