@@ -28,4 +28,10 @@ In this algorithm, at each point, the left, top, right, and bottom nodes are com
 - C++
 
 ## 👻 Created by:
-- This is in collaboration with [Hansika Sacheva](https://github.com/HansikaSachdeva) 
+- 💁‍♀️ [Hansika Sacheva](https://github.com/HansikaSachdeva)
+- 💁‍♂️ [Ujjwal Puri](https://github.com/ujjwalpuri29)
+  <p>
+    <a href="https://github.com/ujjwalpuri29/Maze-Game/graphs/contributors">
+      <img align="center" width=50% src="https://contrib.rocks/image?repo=ujjwalpuri29/Maze-Game">
+    </a>
+  </p>
